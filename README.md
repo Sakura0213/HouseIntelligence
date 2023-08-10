@@ -1,5 +1,5 @@
 # HouseIntelligence
-全屋智能参数及配置
+> 全屋智能参数及配置
 
 * 按钮 ( mesh )
 
