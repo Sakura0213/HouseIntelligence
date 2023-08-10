@@ -1,6 +1,8 @@
 # HouseIntelligence
 > 全屋智能参数及配置
 
+
+
 * 按钮 ( mesh )
 
   * 回家 按钮：
